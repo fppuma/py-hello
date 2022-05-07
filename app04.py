@@ -1,12 +1,14 @@
 #Numbers
-addition = 10 + 5
-multiplication = 10 * 5
-mod = 10 % 5
+a = 10
+b = 5
+addition = a + b
+multiplication = a * b
+mod = a % b
 print(addition)
 print(multiplication)
 print(mod)
 
-#Boolean
+#Boolean & Conditional
 is_adult = True
 age = 17
 
